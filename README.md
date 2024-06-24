@@ -18,6 +18,7 @@
 + [Discord](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Discord.list)
 + [DisneyPlus](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/DisneyPlus.list)
 + [Facebook](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Facebook.list)
++ [Gemini](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Gemini.list)
 + [GitHub](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/GitHub.list)
 + [Google](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Google.list)
 + [HBO](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/HBO.list)
