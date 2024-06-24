@@ -12,6 +12,7 @@
 + [Apple](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Apple.list)
 + [BiliBili](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Bilibili.list)
 + [China](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/China.list)
++ [Claude](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Claude.list)
 + [DownLoadClient](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/DownLoadClient.list)
 + [Direct](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Direct.list)
 + [Discord](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Discord.list)
