@@ -48,3 +48,6 @@
 # Help Document
 > 参考帮助文档
 [Installation | Surfboard Manual](https://getsurfboard.com/docs/installation)
+
+# Link
+1. [ProxySoftware-Template-Config](https://github.com/zuluion/ProxySoftware-Template-Config)
