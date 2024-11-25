@@ -30,6 +30,7 @@
 + [OneDrive](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/OneDrive.list)
 + [OutLook](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/OutLook.list)
 + [OpenAI](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/OpenAI.list)
++ [JavSP](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/JavSP.list)
 + [Microsoft](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Microsoft.list)
 + [PayPal](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/PayPal.list)
 + [Proxy](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Proxy.list)
