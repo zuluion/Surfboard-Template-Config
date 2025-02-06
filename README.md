@@ -36,6 +36,7 @@
 + [Proxy](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Proxy.list)
 + [ProxyClient](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/ProxyClient.list)
 + [PikPak](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/PikPak.list)
++ [Reddit](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Reddit.list)
 + [Spotify](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Spotify.list)
 + [Speedtest](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Speedtest.list)
 + [Steam](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Steam.list)
