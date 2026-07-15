@@ -4,12 +4,10 @@ PROCESS-NAME,DownloadService
 PROCESS-NAME,qBittorrent
 PROCESS-NAME,Transmission
 PROCESS-NAME,fdm
-PROCESS-NAME,aria2c
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
-PROCESS-NAME,aria2c.exe
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,NetTransport.exe

@@ -10,6 +10,7 @@
 + [Adobe](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Adobe.list)
 + [Amazon](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Amazon.list)
 + [Apple](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Apple.list)
++ [Aria2](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Aria2.list)
 + [BiliBili](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Bilibili.list)
 + [China](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/China.list)
 + [Claude](https://cdn.jsdelivr.net/gh/zuluion/Surfboard-Template-Config@master/Filter/Claude.list)
